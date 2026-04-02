@@ -1,6 +1,6 @@
 # Customer Database Cleaning for Outreach
 
-## 🧾 Project Overview
+## Project Overview
 This project demonstrates how to clean and transform a messy customer dataset into a structured, professional call list using Python. The goal is to improve data quality, ensure consistency, and make the dataset usable for outreach campaigns.
 
 ---
